@@ -2,7 +2,7 @@
 
 ## Mission
 
-The mission of the W3C Documentation Community Group (W3C Docs CG) is to ensure web developers and designers worldwide have the best information available so they can build things on the web platform. The Docs CG focuses on the art of technical writing and information architecture across the Web ecosystem (W3C, WHATWG, ECMA, IETF, etc.).
+The mission of the W3C Documentation Community Group (W3C Docs CG) is to ensure web developers and designers worldwide have the best information available so they can build things on the web platform.
 
 ## Scope of work
 
@@ -61,7 +61,7 @@ The group may produce Community Group Reports within the scope of this charter b
 
 Who is this CG for?
 
-- Technical Writers to talk amongst themselves.
+- Technical writers and other documentation practitioners to collaborate.
 - Web platform docs sites to share best practices.
-- Specification authors and implementers to give and to get feedback on docs and specs.
-- Web developers to help identify needs in understanding web platform technologies.
+- Specification authors and implementers to give and receive feedback on documentation and specs.
+- Web developers to identify and request support to better the understanding of web platform technologies.
