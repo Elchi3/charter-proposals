@@ -6,22 +6,23 @@ The mission of the W3C Documentation Community Group (W3C Docs CG) is to ensure 
 
 ## Scope of work
 
-This Community will:
+This community group will:
 
 - Plan and write new documentation for web platform technologies.
-  - Make sure reference docs (“the book of web platform features”) are complete.
-  - Identify needs for Guides, How-Tos, and Tutorials and create them.
-- Work with specification authors to define best practices for web developer docs, code examples, and information architecture.
-- Maintain and keep documentation up-to-date using modern approaches like docs-as-code and develop tools to create feedback loops between standards and web developer documentation.
-- Collaborate with other horizontal groups such as [WebDX](https://www.w3.org/community/webdx/), [Security](https://www.w3.org/mission/security/), [Privacy](https://www.w3.org/mission/privacy/), [Accessibility](https://www.w3.org/mission/accessibility/), [Internationalization](https://www.w3.org/mission/internationalization/), [Sustainability](https://www.w3.org/community/sustyweb/) and integrate their findings and best practices into docs.
-- Create a map of documentation sources for web developers.
+  - Make sure reference documentation (“the book of web platform features”) is complete.
+  - Identify needs for guides, how-tos, and tutorials, and create them.
+- Work with specification authors to define best practices for web developer documentation, code examples, and information architecture.
+- Maintain and keep documentation up-to-date using modern approaches like docs-as-code
+- Develop tools to create feedback loops between standards and web developer documentation.
+- Coordinate documentation efforts: Collaborate with other W3C community groups, such as [WebDX](https://www.w3.org/community/webdx/), [Security](https://www.w3.org/mission/security/), [Privacy](https://www.w3.org/mission/privacy/), [Accessibility](https://www.w3.org/mission/accessibility/), [Internationalization](https://www.w3.org/mission/internationalization/), [Sustainability](https://www.w3.org/community/sustyweb/) and integrate their findings and best practices into documentation.
+- Be a resource for resources: map documentation sources for web developers.
   - Identify reliable sources of information.
-  - Invite them to be part of the conversations in the CG.
-- Drive adoption (or deprecation!) of web platform technologies.
+  - Invite them to be part of the conversations in this community group.
+- Drive adoption (or deprecation) of web platform technologies:
   - Identify web platform features where sparse docs prevent adoption and understanding.
-  - Interpret developer surveys (such as the [MDN short survey on web Developer’s experience with Web Security](https://github.com/web-platform-dx/developer-research/blob/main/mdn-short-surveys/2023-05-15-security-dx/interpretation.md) and understand the role of documentation in identified shortcomings.
-- Coordinate horizontal efforts to get outdated docs updated by, e.g. helping reach out to the right docs owners.
-- Act as a hub for when docs-related efforts/changes/projects appear, so people can get these amplified/coordinated with the relevant stakeholders.
+  - Interpret developer surveys (such as the [MDN short survey on web developer’s experience with Web Security](https://github.com/web-platform-dx/developer-research/blob/main/mdn-short-surveys/2023-05-15-security-dx/interpretation.md) and understand the role of documentation in identified shortcomings.
+- Ensure documentation relevance: coordinate horizontal efforts to get outdated docs updated such as by helping reach out to the right docs owners.
+- Be a hub for web documentation: when docs-related efforts, changes, and/or projects appear, coordinate with the relevant stakeholders to get these amplified.
 
 ## Key deliverables
 
